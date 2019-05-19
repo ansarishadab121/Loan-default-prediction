@@ -1,2 +1,2 @@
 # Loan-default-prediction
-It is a loan default prediction problem organised by Analytics Vidhya to learn machine learning algorithm with python.
+It is a loan default prediction problem organised by Analytics Vidhya to learn machine learning algorithm with python and R. It is a binary classification problem with loan default as yes or no. Exploratory data analysis is done for both univariate and bivariate data. Several machine learning algorithm starting from simple logistic regression and then advance algorithms like random forest, XGboost, Support Vector MAchine has been implemented. Accuracies are compared among each other and final model is selected by testing it on test dataset provided.
